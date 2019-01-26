@@ -4,8 +4,12 @@ h1 {
 
 body{
     background-color: rgb(0, 217, 255);
+    background: #ffffff url("Stars-Background.png") no-repeat right top;
+    background-size: 100%;
     font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
 }
+
 
 footer{
     background-color: aquamarine;
