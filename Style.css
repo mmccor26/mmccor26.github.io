@@ -8,7 +8,7 @@ title{
 
 body{
     background-color: rgb(0, 217, 255);
-    background: #ffffff url("Stars-Background.png") no-repeat;
+    background:black url("Stars-Background.png") no-repeat;
     background-size: 100%;
     font-family: Arial, Helvetica, sans-serif;
     color: #ffffff;
@@ -19,7 +19,7 @@ footer{
     background-color: rgb(9, 26, 82);
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
-    color: black;
+    color:white;
     padding: 40px;
     
 }
@@ -46,7 +46,7 @@ footer{
   }
   
   /* Twitter */
-  .fa-twitter {
-    background: #55ACEE;
+  .fa-github {
+    background: rgb(142, 17, 153);
     color: white;
   }
